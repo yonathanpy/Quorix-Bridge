@@ -1,4 +1,4 @@
-# Darktrix — Core Exchange Engine
+# Darktrix Core Exchange Engine
 
 **Darktrix** is a high-performance, scalable currency conversion and digital asset engine designed for professional use. It provides robust conversion logic, modular architecture, and a foundation for enterprise-grade financial systems.
 
