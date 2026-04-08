@@ -12,10 +12,10 @@
 
 ## Project Structure
 
-- `server` — core service and request routing  
-- `api` — handles all HTTP requests and responses  
-- `engine` — conversion calculations  
-- `fx` — exchange rate definitions and management  
+- `server` - core service and request routing  
+- `api` - handles all HTTP requests and responses  
+- `engine` - conversion calculations  
+- `fx` - exchange rate definitions and management  
 
 ## Usage
 
